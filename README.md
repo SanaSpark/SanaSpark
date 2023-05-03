@@ -1,6 +1,6 @@
 - Hi, I’m @SanaSpark
 - I’m interested in Music Creation and technology!
-- I’m currently learning Engineering Physics, working on a capstone project with Python based coding with live time sensor plotting
+- I am a mechanical engineer working with Raytheon/Pratt and Whitney engine CAD drawings. I have some experience with coding, including my capstone project involving live sensor manipulation and data plotting
 - I’m looking to collaborate on any project
 - Reach me on Discord SanaSpark#8233 or by email alexander.miller3948@gmail.com
 
